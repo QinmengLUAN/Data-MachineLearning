@@ -28,6 +28,10 @@
  * Logistic regression, Pandas-absence prediction
  * FT news
 ### wk2
+ * Probability
+ * BS model practice
+ * Neural networks
+ * FT news
 ### wk3
 ### wk4
  
