@@ -35,5 +35,6 @@
  * Neural networks
  * FT news
 ### wk3
+ * Andrew Ng: Machine learning
 ### wk4
  
