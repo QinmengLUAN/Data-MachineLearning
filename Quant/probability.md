@@ -1,4 +1,4 @@
-# Mistake collections
+# Mistakes collection
 
 ## A practical guide to quantitative finance interviews
 绿皮书 Zhou Xinfeng
