@@ -1,13 +1,14 @@
 # [Datacamp Statistical Thinking in Python (Part 1)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1)
 
+> [A tidy github notebook](https://github.com/wblakecannon/DataCamp/tree/master/04-statistical-thinking-in-python-(part1))
+
 ## Graphical exploratory data analysis (EDA)
 ### Plotting a histogram
-- lable the axis
-- set the bins
-- **Seaborn**
-    + sns.set(): use the default style
-- Bins: **"square root rule"**:
 
+* lable the axis; set the bins
+* **Seaborn**
+    + sns.set(): use the default style
+* Bins: **"square root rule"**:
     + is a commonly-used rule of thumb for choosing number of bins: choose the number of bins to be the square root of the number of samples.
 
 Example:
@@ -158,7 +159,7 @@ plt.show()
     * **Poisson distribution**: The number r of arrivals of a Poisson process in a given time interval with average rate of λ arrivals per interval is Poisson distributed.
         * The number r of hits on a website in one hour with an average hit rate of 6 hits per hour is Poisson distributed.
 
-> Relationship between Binomial and Poisson distributions:
+> **Relationship between Binomial and Poisson distributions**:
 > 
 > You just heard that the Poisson distribution is **a limit of the Binomial distribution for rare events**. This makes sense if you think about the stories. 
 > 
@@ -167,7 +168,9 @@ plt.show()
 > Example: When we have rare events (low p, high n), the Binomial distribution is Poisson. This has a single parameter, the mean number of successes per time interval, in our case the mean number of no-hitters per season.
 ## Thinking probabilistically -- Continuous variables
 * Probability density functions (PDF)
-    - Continous
+    - Continuous distribution
 * Normal distribution
     - Describes a continuous variable whose PDF has a single symmetric peak.
 * Normal distribution: properties and warning
+* **The Exponential distribution**
+    - The waiting time between arrivals of a Poisson process is Exponentially distributed
