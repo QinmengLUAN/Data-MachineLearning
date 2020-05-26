@@ -78,9 +78,28 @@ print('95% confidence interval =', conf_int, 'games')
 * p-value
     - The probability of obtaining a value of your test statistic that is at least as extreme as what was observed, under the assumption the null hypothesis is true.
     - NOT the probability that the null hypothesis is true
+    - A p-value below **0.01** is typically said to be "statistically significant," 
 * Quiz: What is a p-value?
     - The p-value is generally a measure of: the probability of observing a test statistic equally or more extreme than the one you observed, given that the null hypothesis is true.
 * **Statistical signicance**:
-    - Determined by the smallness of a p-value
+    - **Determined by the smallness of a p-value**
+
+> **Permutation test  on frog data**: hypothesis that the distributions of strike forces for the two frogs are identical. 
+> **A one-sample bootstrap hypothesis test**: less restrictive hypothesis: The mean strike force of Frog B is equal to that of Frog C. Remember, your goal is to calculate the probability of getting a mean impact force **less than or equal** to what was observed for Frog B if the hypothesis that the true mean of Frog B's impact forces is equal to that of Frog C is true. 
+> **A two-sample bootstrap hypothesis test for difference of means**: To do the two-sample bootstrap test, we shift both arrays to have the same mean, since we are simulating the hypothesis that their means are, in fact, equal. We then draw bootstrap samples out of the shifted arrays and compute the difference in means. This constitutes a bootstrap replicate, and we generate many of them. The p-value is the fraction of replicates with a difference in means greater than or equal to what was observed.
+
+## Hypothesis test examples
+### A/B testing
+* A/B test
+    - Used by organizations to see if a strategy change gives a better
+    result
+
+### Test of correlation
+
+## Putting it all together: a case study
+
+### Finch beaks and the need for statistics
+
+
 
 

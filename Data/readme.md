@@ -7,7 +7,7 @@
 * Datacamp [Practicing Statistics Interview Questions in Python](https://learn.datacamp.com/courses/practicing-statistics-interview-questions-in-python)
 * Datacamp [Time Series with Python](https://learn.datacamp.com/skill-tracks/time-series-with-python)
 * Datacamp [Statistical Thinking in Python (Part 1)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) DONE by 22/05/2020
-* Datacamp [Statistical Thinking in Python (Part 2)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2)
+* Datacamp [Statistical Thinking in Python (Part 2)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2) DONE by 26/05/2020
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 # Data assessments
