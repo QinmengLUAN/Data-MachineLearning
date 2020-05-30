@@ -1,6 +1,7 @@
 # Mistakes collection: Stochastic process and stochastic calculus
 
-> From: A practical guide to quantitative finance interviews 绿皮书 Zhou Xinfeng
+> From: A practical guide to quantitative finance interviews 
+> 绿皮书 Zhou Xinfeng
 
 * **Markove chain**: Once the current state is known, past history has no bearing on the future
     - **Transition matrix / graph** 
