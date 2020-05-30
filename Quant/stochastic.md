@@ -24,12 +24,14 @@
 ### First time go through (21/05/2020)
 
 Markov:
+
 1. Gambler's ruin game ** P107: graph, matrix 
 1. Dice question *** P108: conditional probability & graph
 1. Coin triplets **** P109: classic
 2. Hard: Color ball P113:
 
 Martingale:
+
 1. Drunk man **** P116: classic
 2. Dice game *** P117: Wald's equality
 3. Hard: Ticket line

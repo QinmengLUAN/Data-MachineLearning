@@ -1,9 +1,11 @@
-# Mistakes collection
+# Mistakes collection: Probability
 
 ## A practical guide to quantitative finance interviews
 绿皮书 Zhou Xinfeng
 
 ### First time go through (18/05/2020)
+
+Easy:
 
 1. Coin toss game P61: symmetry
 1. Coin toss game P61: symmetry
@@ -17,6 +19,8 @@
 1. Coin toss game P80 *****: symmetry
 1. Russian roulette series P81 ****: classic
 
+Medium:
+
 1. Basketball scores P84 **: start from a small number
 1. Meeting probability P88 ***: use graph
 1. Probability of triangle P89 ***: use graph
@@ -26,6 +30,7 @@
 1. Random ants ****: P102
 
 Hard:
+
 1. Gambler’s ruin problem P83
 1. Property of poisson process P90:
 1. Moments of normal distribution P91:
