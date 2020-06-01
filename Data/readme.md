@@ -1,7 +1,7 @@
 # Data learning
 ## Online courses
 * StatQuest with Josh Starmer (https://www.youtube.com/user/joshstarmer)
-* Datacamp[Statistics Fundamentals with Python
+* Datacamp [Statistics Fundamentals with Python
 ](https://learn.datacamp.com/skill-tracks/statistics-fundamentals-with-python)
 * Datacamp [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
 * Datacamp [Practicing Statistics Interview Questions in Python](https://learn.datacamp.com/courses/practicing-statistics-interview-questions-in-python)
