@@ -1,7 +1,7 @@
 # Mistakes collection: Probability
 
-## A practical guide to quantitative finance interviews
-绿皮书 Zhou Xinfeng
+> A practical guide to quantitative finance interviews
+>绿皮书 Zhou Xinfeng
 
 ### First time go through (18/05/2020)
 
