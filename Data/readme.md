@@ -1,6 +1,11 @@
 # Data learning
+
 ## Data weekly Q&A 
 * [Google Doc](https://docs.google.com/document/d/1wx5IKBBwo9QEmnLCsHXE8m7sBHK30G46WnTD6q4srV8/edit?usp=sharing)
+
+## Data useful doc
+* [About matplotlib] (https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
+
 ## Online courses
 * StatQuest with Josh Starmer (https://www.youtube.com/user/joshstarmer)
 * Datacamp [Statistics Fundamentals with Python
@@ -13,6 +18,7 @@
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 # Data assessments
+
 ## Online assessments
 * [Datacamp Machine Learning Fundamentals in Python](https://assessment.datacamp.com/machine-learning-fundamentals-with-python)
 * [Datacamp Statistics Fundamentals with Python](https://assessment.datacamp.com/statistics-fundamentals-with-python)
