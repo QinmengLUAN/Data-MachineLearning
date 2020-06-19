@@ -4,11 +4,12 @@
 ## June learning record
 #### Quant:
  1. [Daily python: Recursion, some algorithms](https://github.com/QinmengLUAN/Daily_Python_Coding)
+ 1. Value at Risk [MIT](https://www.youtube.com/watch?v=92WaNz9mPeY)
  1. Book: Options, futures and other derivatives
     * Greeks
  1. Book & practice: The concepts and practice of mathematical finance (1 chapter pwk)
  2. Green Book_Math: [Brain teaser & common mistakes](https://github.com/QinmengLUAN/Quant-Data/tree/master/Quant)
- 3. Calculus and Linear Algebra review!!!
+ 3. Calculus and Linear Algebra review (19/06/2020)!!!
  3. FT everyday (make notes)
  4. Git everyday
 
