@@ -4,10 +4,10 @@
 * [Google Doc](https://docs.google.com/document/d/1wx5IKBBwo9QEmnLCsHXE8m7sBHK30G46WnTD6q4srV8/edit?usp=sharing)
 
 ## Data useful doc
-* [About matplotlib] (https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
+* [About matplotlib](https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
 
 ## Online courses
-* StatQuest with Josh Starmer (https://www.youtube.com/user/joshstarmer)
+* [StatQuest with Josh Starmer] (https://www.youtube.com/user/joshstarmer)
 * Datacamp [Statistics Fundamentals with Python
 ](https://learn.datacamp.com/skill-tracks/statistics-fundamentals-with-python)
 * Datacamp [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
