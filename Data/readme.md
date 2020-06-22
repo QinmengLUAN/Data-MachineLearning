@@ -7,7 +7,7 @@
 * [About matplotlib](https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
 
 ## Online courses
-* [StatQuest with Josh Starmer] (https://www.youtube.com/user/joshstarmer)
+* [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 * Datacamp [Statistics Fundamentals with Python
 ](https://learn.datacamp.com/skill-tracks/statistics-fundamentals-with-python)
 * Datacamp [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
@@ -15,6 +15,8 @@
 * Datacamp [Time Series with Python](https://learn.datacamp.com/skill-tracks/time-series-with-python) DONE by 28/05/2020
 * Datacamp [Statistical Thinking in Python (Part 1)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) DONE by 22/05/2020
 * Datacamp [Statistical Thinking in Python (Part 2)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2) DONE by 26/05/2020
+* Coursera [IBM Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
+  * [Notes](http://mlwiki.org/index.php/Introduction_to_Data_Science_(coursera))
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 # Data assessments
