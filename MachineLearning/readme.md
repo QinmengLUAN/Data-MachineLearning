@@ -1,7 +1,11 @@
 # Machine learning Materials
-## Linear regression
-## Logistic regression ([Moe jupyter script](https://github.com/QinmengLUAN/Pandas_practice/blob/master/Logistic_regression_Moe.ipynb))
-## Neural networks 
+## Data weekly Q&A 
+* [Google Doc](https://docs.google.com/document/d/1objE9ZmktxEer6hjdiPM_-foS_tJhJrNCan0oCGQ8xY/edit#heading=h.6wiqctjceh3i)
+
+## ML model construction
+* Linear regression
+* Logistic regression ([Moe jupyter script](https://github.com/QinmengLUAN/Pandas_practice/blob/master/Logistic_regression_Moe.ipynb))
+* Neural networks 
 
 ## Online courses
 * [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
