@@ -1,10 +1,6 @@
-# Data learning
-
+# Data Science learning
 ## Data weekly Q&A 
 * [Google Doc](https://docs.google.com/document/d/1wx5IKBBwo9QEmnLCsHXE8m7sBHK30G46WnTD6q4srV8/edit?usp=sharing)
-
-## Data useful doc
-* [About matplotlib](https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
 
 ## Online courses
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
@@ -19,8 +15,13 @@
   * [Notes](http://mlwiki.org/index.php/Introduction_to_Data_Science_(coursera))
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-# Data assessments
+## Good web summaries
+* [About matplotlib](https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
+* [DS Product SQL: nice post](https://www.1point3acres.com/bbs/thread-637777-1-1.html)
+* [DS High frequency questions](https://www.1point3acres.com/bbs/thread-610533-1-1.html)
+* [DS preparation tips](https://www.1point3acres.com/bbs/thread-641703-1-1.html)
 
+# Data assessments
 ## Online assessments
 * [Datacamp Machine Learning Fundamentals in Python](https://assessment.datacamp.com/machine-learning-fundamentals-with-python)
 * [Datacamp Statistics Fundamentals with Python](https://assessment.datacamp.com/statistics-fundamentals-with-python)
