@@ -16,6 +16,8 @@
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ## Good web summaries
+* Must read: [Data Science Interview Questions blog](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+* Need regular review: [Statistics Interview Questions and Answers](https://www.janbasktraining.com/blog/statistics-interview-questions/)
 * [About matplotlib](https://zhuanlan.zhihu.com/p/93423829?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=549060902771699712)
 * [DS Product SQL: nice post](https://www.1point3acres.com/bbs/thread-637777-1-1.html)
 * [DS High frequency questions](https://www.1point3acres.com/bbs/thread-610533-1-1.html)
