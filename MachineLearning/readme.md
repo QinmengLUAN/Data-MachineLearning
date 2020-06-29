@@ -11,10 +11,10 @@
 * Udemy [Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-ys.md0kncTLM.VM6U_4VAA)
 * Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-4IdA02YSMulZv1hO0dm_Lg)
 * Datacamp Career Track [Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)
- * Datacamp [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) Done by 25/06/22
-  * [After Class Practice](https://practice.datacamp.com/p/28) DONE by 29/06/2020
- * Datacamp [Unsupervised Learning in Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Done by 29/02/2020
-  * [After Class Practice](https://learn.datacamp.com/courses/unsupervised-learning-in-python)
+  * Datacamp [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) Done by 25/06/22
+    * [After Class Practice](https://practice.datacamp.com/p/28) DONE by 29/06/2020
+  * Datacamp [Unsupervised Learning in Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) Done by 29/02/2020
+    * [After Class Practice](https://learn.datacamp.com/courses/unsupervised-learning-in-python)
 
 ## ML model construction
 * Linear regression
