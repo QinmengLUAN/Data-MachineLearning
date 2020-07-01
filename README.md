@@ -19,8 +19,8 @@
  1. Pandas project (1 pro pwk)
     * Kaggle [Titanic](https://github.com/QinmengLUAN/Pandas_practice/tree/master/Titanic_ML)
  1. Statistics
-    * Datacamp [Statistical Thinking in Python (Part 1)](Statistical Thinking in Python (Part 1)) [GitNotes](https://github.com/QinmengLUAN/Quant-Data/blob/master/Data/datacamp_StatisticalThinkingPy.md)
-    * Datacamp [Statistical Thinking in Python (Part 2)]
-    * Datacamp Time Series
+    * Datacamp [Statistical Thinking in Python (Part 1)] [My GitNotes](https://github.com/QinmengLUAN/Quant-Data/blob/master/Data/datacamp_StatisticalThinkingPy.md)
+    * Datacamp [Statistical Thinking in Python (Part 2)] [My GitNotes](https://github.com/QinmengLUAN/Data-MachineLearning/blob/master/Data/datacamp_StatisticalThinkingPy_part2.md)
+    * Datacamp [Time Series with Python] [My GitNotes](https://github.com/QinmengLUAN/Data-MachineLearning/blob/master/Data/datacamp_TimeSeries.md)
 
 
