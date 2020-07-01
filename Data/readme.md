@@ -8,9 +8,9 @@
 ](https://learn.datacamp.com/skill-tracks/statistics-fundamentals-with-python)
 * Datacamp [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
 * Datacamp [Practicing Statistics Interview Questions in Python](https://learn.datacamp.com/courses/practicing-statistics-interview-questions-in-python)
-* Datacamp [Time Series with Python](https://learn.datacamp.com/skill-tracks/time-series-with-python) [My GitNotes](https://github.com/QinmengLUAN/Data-MachineLearning/blob/master/Data/datacamp_TimeSeries.md) Done by 28/05/2020
-* Datacamp [Statistical Thinking in Python (Part 1)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) [My GitNotes](https://github.com/QinmengLUAN/Quant-Data/blob/master/Data/datacamp_StatisticalThinkingPy.md) Done by 22/05/2020
-* Datacamp [Statistical Thinking in Python (Part 2)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2) [My GitNotes](https://github.com/QinmengLUAN/Data-MachineLearning/blob/master/Data/datacamp_StatisticalThinkingPy_part2.md) Done by 26/05/2020
+* Datacamp [Time Series with Python](https://learn.datacamp.com/skill-tracks/time-series-with-python): [**My GitNotes**](https://github.com/QinmengLUAN/Data-MachineLearning/blob/master/Data/datacamp_TimeSeries.md) Done by 28/05/2020
+* Datacamp [Statistical Thinking in Python (Part 1)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1): [**My GitNotes**](https://github.com/QinmengLUAN/Quant-Data/blob/master/Data/datacamp_StatisticalThinkingPy.md) Done by 22/05/2020
+* Datacamp [Statistical Thinking in Python (Part 2)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2): [**My GitNotes**](https://github.com/QinmengLUAN/Data-MachineLearning/blob/master/Data/datacamp_StatisticalThinkingPy_part2.md) Done by 26/05/2020
 * Coursera [IBM Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
   * [Notes](http://mlwiki.org/index.php/Introduction_to_Data_Science_(coursera))
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
