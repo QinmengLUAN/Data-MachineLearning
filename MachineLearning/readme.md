@@ -2,6 +2,10 @@
 ## Data weekly Q&A 
 * [Google Doc](https://docs.google.com/document/d/1objE9ZmktxEer6hjdiPM_-foS_tJhJrNCan0oCGQ8xY/edit#heading=h.6wiqctjceh3i)
 
+## Projects
+1. [A collection of take home challenges](https://github.com/QinmengLUAN/DS_TakeHomeChallenges)
+1. [Datacamp ML Project](https://projects.datacamp.com/projects/684)
+
 ## Online courses
 1. [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) Video DONE by 22/06/2020
    * [Andrew Ng ML good notes](http://mlwiki.org/index.php/Machine_Learning_(coursera))
