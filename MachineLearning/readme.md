@@ -13,8 +13,8 @@
    * [Andrew Ng bullet points](https://stanford.edu/~shervine/teaching/cs-229/)
 1. Datacamp Career Track [Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)
    * 93 hours learning, 23 Courses
-   * Course 1: [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Supervised%20Learning%20with%20scikit-learn) Done by 25/06/22
-   * Course 2: [Unsupervised Learning in Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Unsupervised%20Learning%20in%20Python) Done by 29/02/2020
+   * Course 1: [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Supervised%20Learning%20with%20scikit-learn) Done by 25/06/2020
+   * Course 2: [Unsupervised Learning in Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Unsupervised%20Learning%20in%20Python) Done by 29/06/2020
    * Course 3: [Linear Classifer in Python](https://campus.datacamp.com/courses/linear-classifiers-in-python/loss-functions?ex=1) [GitRef](https://github.com/iDataist/Linear-Classifiers-in-Python/blob/master/Linear_Classifiers_in_Python.ipynb) Done by 01/07/2020
    * Course 4: [Machine Learning with Tree-Based Models in Python](https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/classification-and-regression-trees?ex=1)
 1. Udemy [Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-ys.md0kncTLM.VM6U_4VAA)
