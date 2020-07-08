@@ -17,7 +17,7 @@
    * Course 2: [Unsupervised Learning in Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Unsupervised%20Learning%20in%20Python) Done by 29/06/2020
    * Course 3: [Linear Classifer in Python](https://campus.datacamp.com/courses/linear-classifiers-in-python/loss-functions?ex=1) [GitRef](https://github.com/iDataist/Linear-Classifiers-in-Python/blob/master/Linear_Classifiers_in_Python.ipynb) Done by 01/07/2020
    * Course 4: [Machine Learning with Tree-Based Models in Python](https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/classification-and-regression-trees?ex=1) Done by 04/072020
-   * Course 5: [Extreme Gradient Boosting with XGBoost](https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
+   * Course 5: [Extreme Gradient Boosting with XGBoost](https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost) [GitRef](https://github.com/jadoonengr/DataCamp-Notes/blob/master/Extreme%20Gradient%20Boosting%20with%20XGBoost.ipynb) Done by 08/07/2020
 1. Udemy [Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-ys.md0kncTLM.VM6U_4VAA)
 1. Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?LSNPUBID=skg%2FSko%2FYbo&ranEAID=skg%2FSko%2FYbo&ranMID=39197&ranSiteID=skg_Sko_Ybo-4IdA02YSMulZv1hO0dm_Lg)
 1. Leetcode [Machine Learning 101](https://leetcode.com/explore/learn/card/machine-learning-101/281/how_to_ml/)
