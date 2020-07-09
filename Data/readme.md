@@ -23,6 +23,7 @@
 * [DS High frequency questions](https://www.1point3acres.com/bbs/thread-610533-1-1.html)
 * [DS preparation tips](https://www.1point3acres.com/bbs/thread-641703-1-1.html)
 * [DS How to crack the data challenge](https://www.1point3acres.com/bbs/interview/facebook-data-science-326201.html)
+* [DS questions-companies](https://www.1point3acres.com/bbs/forum.php?mod=collection&action=view&ctid=454)
 
 # Data assessments
 ## Online assessments
