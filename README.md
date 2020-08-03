@@ -1,5 +1,10 @@
 # Data & Machine Learning
 > Tasks are excuted on daily rolling basis
+
+## August learning record
+ 1. DS: Take Home Challenges
+ 2. Review Time Series
+
 ## July learning record
  1. Datacamp Machine Learning Track
  
