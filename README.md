@@ -1,9 +1,13 @@
 # Data & Machine Learning
 > Tasks are excuted on daily rolling basis
 
+## September learning record
+ 1. Coursera: [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis)
+
 ## August learning record
  1. DS: Take Home Challenges
- 2. Review Time Series
+ 1. Coursera: [AI for everyone_Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
+ 1. Review Time Series
 
 ## July learning record
  1. Datacamp Machine Learning Track
