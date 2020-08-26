@@ -14,6 +14,10 @@
 * Coursera [IBM Introduction to Data Science Specialization](https://www.coursera.org/specializations/introduction-data-science)
   * [Notes](http://mlwiki.org/index.php/Introduction_to_Data_Science_(coursera))
 * Coursera [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
+## Must read
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [DS Cheat Sheet](https://github.com/FavioVazquez/ds-cheatsheets)
+* [Pandas User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 
 ## Good web summaries
 * Must read: [Data Science Interview Questions blog](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
