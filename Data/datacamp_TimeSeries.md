@@ -168,7 +168,7 @@ of τ).
 * Transforming Nonstationary Series Into Stationary Series:
     - e.g. take the first difference `SPY.diff()` for stock price
     - Take the seasonal difference (by taking the difference with lag of 4)`xxx.diff(4)`,
-    - # Log to eliminate the exponential growth, then seasonal difference, `plt.plot(np.log(AMZN).diff(4))`
+    - Log to eliminate the exponential growth, then seasonal difference, `plt.plot(np.log(AMZN).diff(4))`
 
 Example:
 ```
