@@ -3,6 +3,7 @@
 
 ## September learning record
  1. Coursera: [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis)
+ 2. Coursera: [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 ## August learning record
  1. DS: Take Home Challenges
