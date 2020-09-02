@@ -1,8 +1,8 @@
 # Data & Machine Learning
 > Tasks are excuted on daily rolling basis
 
-## September learning record
- 1. Coursera: [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis)
+## September learning progress record
+ 1. Coursera: [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis) [Git Notes](https://github.com/ferrarisf50/Practical-Time-Series-Analysis---The-State-University-of-New-York---Coursera)
  2. Coursera: [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 ## August learning record
