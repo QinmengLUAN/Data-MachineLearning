@@ -4,6 +4,8 @@
 ## September learning progress record
  1. Coursera: [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis) [Git Notes](https://github.com/ferrarisf50/Practical-Time-Series-Analysis---The-State-University-of-New-York---Coursera)
  2. Coursera: [Deep Learning](https://www.coursera.org/specializations/deep-learning)
+    * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+    * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
 ## August learning record
  1. DS: Take Home Challenges
