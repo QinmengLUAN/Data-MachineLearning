@@ -11,6 +11,10 @@
 1. [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) Video Done by 22/06/2020
    * [Andrew Ng ML good notes](http://mlwiki.org/index.php/Machine_Learning_(coursera))
    * [Andrew Ng bullet points](https://stanford.edu/~shervine/teaching/cs-229/)
+2. Coursera: [Deep Learning](https://www.coursera.org/specializations/deep-learning)
+  * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) [GitNotes](https://github.com/Sumit-ai/deep-learning-ai-)
+  * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+
 1. Datacamp Career Track [Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)
    * 93 hours learning, 23 Courses
    * Course 1: [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Supervised%20Learning%20with%20scikit-learn) Done by 25/06/2020
