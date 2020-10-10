@@ -13,7 +13,7 @@
     * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
 ## August learning record
- 1. DS: Take Home Challenges
+ 1. DS: [Take Home Challenges](https://github.com/QinmengLUAN/DS_TakeHomeChallenges)
  1. Coursera: [AI for everyone_Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
  1. Review Time Series
 
