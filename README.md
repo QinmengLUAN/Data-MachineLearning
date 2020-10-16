@@ -11,6 +11,7 @@
  2. Coursera: [Deep Learning](https://www.coursera.org/specializations/deep-learning)
     * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
     * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+    * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 
 ## August learning record
  1. DS: [Take Home Challenges](https://github.com/QinmengLUAN/DS_TakeHomeChallenges)
