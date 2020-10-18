@@ -1,5 +1,4 @@
 # Data & Machine Learning
-> Tasks are excuted on daily rolling basis
 
 ## October learning progress record
 1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
