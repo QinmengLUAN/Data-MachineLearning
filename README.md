@@ -1,8 +1,11 @@
 # Data & Machine Learning
 
 ## October learning progress record
-1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
-1. Deep Learning
+ 1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
+ 1. Deep Learning
+## October learning progress record
+ 1. Kaggle competition
+ 2. Eu Datathon
 
 ## September learning progress record
  1. [Review the math behind ML](http://cs229.stanford.edu/notes/)
