@@ -1,4 +1,8 @@
 # Data & Machine Learning
+## November learning progress record
+ 1. Book: Machine Learning - A Probabilistic Perspective
+ 2. Element of Statistical Learning
+ 3. Linear_models.pdf
 
 ## October learning progress record
  1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
