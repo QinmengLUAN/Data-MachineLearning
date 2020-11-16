@@ -3,8 +3,6 @@
  1. Book: Machine Learning - A Probabilistic Perspective
  2. [Element of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
  3. Linear_models.pdf
-
-## October learning progress record
  1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
  1. Deep Learning
 ## October learning progress record
