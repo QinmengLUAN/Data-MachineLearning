@@ -29,7 +29,8 @@
 ## ML model construction
 * Linear regression
 * Logistic regression ([Moe jupyter script](https://github.com/QinmengLUAN/Pandas_practice/blob/master/Logistic_regression_Moe.ipynb))
-* Neural networks 
+* Neural networks:
+    * [Backpropagation setup](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
 
 ## Good web summaries
 * [ML OOD questions 1/5](https://www.1point3acres.com/bbs/thread-600452-1-1.html)
