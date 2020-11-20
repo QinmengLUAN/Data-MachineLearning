@@ -31,6 +31,9 @@
 * Logistic regression ([Moe jupyter script](https://github.com/QinmengLUAN/Pandas_practice/blob/master/Logistic_regression_Moe.ipynb))
 * Neural networks:
     * [Backpropagation setup](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+* Time series model:
+    * [ARIMA](https://docs.google.com/document/d/1CesGc8ZUJdelyoeek2sKJtJKVa3kFfEdRq7W3mJAmCA/edit)
+    * [Facebook 时间序列预测算法 Prophet 的研究](https://www.zhihu.com/column/p/52330017)
 
 ## Good web summaries
 * [ML OOD questions 1/5](https://www.1point3acres.com/bbs/thread-600452-1-1.html)
