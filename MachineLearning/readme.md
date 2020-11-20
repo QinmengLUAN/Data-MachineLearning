@@ -34,6 +34,7 @@
 * Time series model:
     * [ARIMA](https://docs.google.com/document/d/1CesGc8ZUJdelyoeek2sKJtJKVa3kFfEdRq7W3mJAmCA/edit)
     * [Facebook 时间序列预测算法 Prophet 的研究](https://www.zhihu.com/column/p/52330017)
+    * [Kaggle notebook: Wiki Traffic Forecast Exploration - WTF EDA](https://www.kaggle.com/headsortails/wiki-traffic-forecast-exploration-wtf-eda)
 
 ## Good web summaries
 * [ML OOD questions 1/5](https://www.1point3acres.com/bbs/thread-600452-1-1.html)
