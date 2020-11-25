@@ -5,6 +5,7 @@
  3. Linear_models.pdf + Matrix
  1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
  1. Deep Learning
+    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 ## October learning progress record
  1. Kaggle competition
  2. Eu Datathon
