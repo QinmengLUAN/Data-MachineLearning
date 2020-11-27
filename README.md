@@ -3,6 +3,7 @@
  1. Book: Machine Learning - A Probabilistic Perspective
  2. [Element of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
  3. Linear_models.pdf + Matrix
+    * Good notes for [second derivative of OLS](https://cgi.csc.liv.ac.uk/~xiaowei/ai_materials/14-Gradient-Descent.pdf)
  1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
  1. Deep Learning
     * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
