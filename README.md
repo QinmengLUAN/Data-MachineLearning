@@ -1,6 +1,8 @@
 # Data & Machine Learning
 ## December learning progress record
  1. NLP
+ 1. Deep Learning
+    * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
 ## November learning progress record
  1. Book: Machine Learning - A Probabilistic Perspective
