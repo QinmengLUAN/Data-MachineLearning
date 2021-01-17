@@ -12,8 +12,8 @@
     * Good notes for [second derivative of OLS](https://cgi.csc.liv.ac.uk/~xiaowei/ai_materials/14-Gradient-Descent.pdf)
  1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
  1. Deep Learning
-    * Neural Networks and Deep Learning
-    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+    * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+    * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 ## October learning progress record
  1. Kaggle competition
  2. Eu Datathon
