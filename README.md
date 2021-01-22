@@ -4,6 +4,7 @@
  1. Deep Learning
     * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
     * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+    * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 ## November learning progress record
  1. Book: Machine Learning - A Probabilistic Perspective
