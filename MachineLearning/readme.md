@@ -6,14 +6,26 @@
 1. [A collection of take home challenges](https://github.com/QinmengLUAN/DS_TakeHomeChallenges)
 1. [Kaggle Titanic](https://github.com/QinmengLUAN/Pandas_practice/tree/master/Titanic_ML)
 1. [Datacamp ML Project](https://projects.datacamp.com/projects/684)
+## Books
+1. [An Introduction to Statistical Learning](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
+  * [Solutions](https://blog.princehonest.com/stat-learning/)
+1. Machine Learning - A Probabilistic Perspective
+2. [Element of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+3. Linear_models.pdf + Matrix
+   * Good notes for [second derivative of OLS](https://cgi.csc.liv.ac.uk/~xiaowei/ai_materials/14-Gradient-Descent.pdf)
+4. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
 
 ## Online courses
 1. [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) Video Done by 22/06/2020
    * [Andrew Ng ML good notes](http://mlwiki.org/index.php/Machine_Learning_(coursera))
    * [Andrew Ng bullet points](https://stanford.edu/~shervine/teaching/cs-229/)
+
 1. Coursera: [Deep Learning](https://www.coursera.org/specializations/deep-learning)
    * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) [GitNotes](https://github.com/Sumit-ai/deep-learning-ai-)
    * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+   * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+   * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+   * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 1. Datacamp Career Track [Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python)
    * 93 hours learning, 23 Courses
    * Course 1: [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn) [GitRef](https://github.com/AmoDinho/datacamp-python-data-science-track/tree/master/Supervised%20Learning%20with%20scikit-learn) Done by 25/06/2020
