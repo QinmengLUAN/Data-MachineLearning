@@ -8,7 +8,7 @@
 1. [Datacamp ML Project](https://projects.datacamp.com/projects/684)
 ## Books
 1. [An Introduction to Statistical Learning](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
-  * [Solutions](https://blog.princehonest.com/stat-learning/)
+   * [Solutions](https://blog.princehonest.com/stat-learning/)
 1. Machine Learning - A Probabilistic Perspective
 2. [Element of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 3. Linear_models.pdf + Matrix
