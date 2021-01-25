@@ -1,20 +1,8 @@
 # Data & Machine Learning
 ## December learning progress record
+ 1. NN
+ 1. CNN
  1. NLP
- 1. Deep Learning
-    * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
-    * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
-    * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-
-## November learning progress record
- 1. Book: Machine Learning - A Probabilistic Perspective
- 2. [Element of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
- 3. Linear_models.pdf + Matrix
-    * Good notes for [second derivative of OLS](https://cgi.csc.liv.ac.uk/~xiaowei/ai_materials/14-Gradient-Descent.pdf)
- 1. [西瓜书 notes](https://github.com/Vay-keen/Machine-learning-learning-notes)
- 1. Deep Learning
-    * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
-    * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 ## October learning progress record
  1. Kaggle competition
  2. Eu Datathon
